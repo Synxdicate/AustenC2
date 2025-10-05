@@ -14,3 +14,6 @@ python server.py
 ```python
 python austen.py
 ```
+
+result:<br>
+![sample](https://ibb.co/2048pFph)
