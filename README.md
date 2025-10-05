@@ -16,4 +16,4 @@ python austen.py
 ```
 
 result:<br>
-![sample](https://ibb.co/2048pFph)
+[austen.png](https://postimg.cc/z3638S8K)
