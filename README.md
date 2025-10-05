@@ -14,6 +14,3 @@ python server.py
 ```python
 python austen.py
 ```
-
-result:<br>
-[austen.png](https://postimg.cc/z3638S8K)
