@@ -1,9 +1,9 @@
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+python3 -m venv venv<br>
+source venv/bin/activate<br>
+pip install -r requirements.txt<br>
 
-1. run server
-python server.py
+1. run server<br>
+python server.py<br>
 
-2. run austen
-python austen.py
+2. run austen<br>
+python austen.py<br>
