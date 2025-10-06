@@ -10,7 +10,7 @@ from datetime import datetime
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 
-C2_SERVER = "http://10.54.50.172:5000"  # change
+C2_SERVER = "http://10.10.10.10:5000"  # change ip
 
 class Austen(ctk.CTk):
     def __init__(self):
